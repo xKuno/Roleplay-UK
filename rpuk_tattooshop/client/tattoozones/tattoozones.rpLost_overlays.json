@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "LMC_TAT_001",
+    "updateGroup": "BACK_1",
+    "eFacing": "TATTOO_BACK"
+  },
+  {
+    "Name": "LMC_TAT_002",
+    "updateGroup": "BACK_1",
+    "eFacing": "TATTOO_BACK"
+  },
+  {
+    "Name": "LMC_TAT_003",
+    "updateGroup": "CHEST_MID",
+    "eFacing": "TATTOO_FRONT"
+  },
+  {
+    "Name": "LMC_TAT_004",
+    "updateGroup": "CHEST_MID",
+    "eFacing": "TATTOO_FRONT"
+  },
+  {
+    "Name": "LMC_TAT_005",
+    "updateGroup": "CHEST_MID",
+    "eFacing": "TATTOO_FRONT"
+  },
+  {
+    "Name": "LMC_TAT_006",
+    "updateGroup": "ARM_RIGHT",
+    "eFacing": "TATTOO_RIGHT"
+  },
+  {
+    "Name": "LMC_TAT_007",
+    "updateGroup": "CHEST_LEFT",
+    "eFacing": "TATTOO_FRONT"
+  },
+  {
+	"Name": "LMC_TAT_008",
+	"updateGroup": "NECK_LEFT",
+	"eFacing": "TATTOO_LEFT"
+},
+{
+	"Name": "LMC_TAT_009",
+	"updateGroup": "HAND_LEFT",
+	"eFacing": "TATTOO_LEFT"
+},
+{
+	"Name": "LMC_TAT_010",
+	"updateGroup": "STOMACH_LEFT",
+	"eFacing": "TATTOO_FRONT"
+},
+{
+	"Name": "LMC_TAT_011",
+	"updateGroup": "STOMACH_LEFT",
+	"eFacing": "TATTOO_FRONT"
+},
+{
+	"Name": "LMC_TAT_012",
+	"updateGroup": "STOMACH_RIGHT",
+	"eFacing": "TATTOO_FRONT"
+},
+{
+	"Name": "LMC_TAT_013",
+	"updateGroup": "BACK_LOWER",
+	"eFacing": "TATTOO_BACK"
+}
+]

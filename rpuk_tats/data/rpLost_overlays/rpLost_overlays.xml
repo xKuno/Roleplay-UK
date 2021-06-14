@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PedDecorationCollection>
+	<bRequiredForSync value="true" />
+	<presets>
+		<Item>
+			<uvPos x="0.230000" y="0.480000" />
+			<scale x="0.300000" y="0.300000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_001_m</nameHash>
+			<txdHash>rp_lostmc_tat_001</txdHash>
+			<txtHash>rp_lostmc_tat_001</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_MALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.240000" y="0.590000" />
+			<scale x="0.310000" y="0.260000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_001_f</nameHash>
+			<txdHash>rp_lostmc_tat_001</txdHash>
+			<txtHash>rp_lostmc_tat_001</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_FEMALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.230000" y="0.480000" />
+			<scale x="0.300000" y="0.300000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_002_m</nameHash>
+			<txdHash>rp_lostmc_tat_002</txdHash>
+			<txtHash>rp_lostmc_tat_002</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_MALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.240000" y="0.590000" />
+			<scale x="0.310000" y="0.260000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_002_f</nameHash>
+			<txdHash>rp_lostmc_tat_002</txdHash>
+			<txtHash>rp_lostmc_tat_002</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_FEMALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.725000" y="0.640000" />
+			<scale x="0.160000" y="0.130000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_003_m</nameHash>
+			<txdHash>rp_lostmc_tat_003</txdHash>
+			<txtHash>rp_lostmc_tat_003</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_MALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.740000" y="0.670000" />
+			<scale x="0.170000" y="0.110000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_003_f</nameHash>
+			<txdHash>rp_lostmc_tat_003</txdHash>
+			<txtHash>rp_lostmc_tat_003</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_FEMALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.725000" y="0.640000" />
+			<scale x="0.160000" y="0.130000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_004_m</nameHash>
+			<txdHash>rp_lostmc_tat_004</txdHash>
+			<txtHash>rp_lostmc_tat_004</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_MALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.740000" y="0.670000" />
+			<scale x="0.170000" y="0.110000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_004_f</nameHash>
+			<txdHash>rp_lostmc_tat_004</txdHash>
+			<txtHash>rp_lostmc_tat_004</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_FEMALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.725000" y="0.640000" />
+			<scale x="0.160000" y="0.130000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_005_m</nameHash>
+			<txdHash>rp_lostmc_tat_005</txdHash>
+			<txtHash>rp_lostmc_tat_005</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_MALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.740000" y="0.670000" />
+			<scale x="0.170000" y="0.110000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_005_f</nameHash>
+			<txdHash>rp_lostmc_tat_005</txdHash>
+			<txtHash>rp_lostmc_tat_005</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_FEMALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.500000" y="0.860000" />
+			<scale x="0.070000" y="0.100000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_006_m</nameHash>
+			<txdHash>rp_lostmc_tat_006</txdHash>
+			<txtHash>rp_lostmc_tat_006</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_MALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.500000" y="0.850000" />
+			<scale x="0.070000" y="0.100000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_006_f</nameHash>
+			<txdHash>rp_lostmc_tat_006</txdHash>
+			<txtHash>rp_lostmc_tat_006</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_FEMALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.820000" y="0.600000" />
+			<scale x="0.100000" y="0.100000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_007_m</nameHash>
+			<txdHash>rp_lostmc_tat_007</txdHash>
+			<txtHash>rp_lostmc_tat_007</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_MALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.840000" y="0.660000" />
+			<scale x="0.100000" y="0.100000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_007_f</nameHash>
+			<txdHash>rp_lostmc_tat_007</txdHash>
+			<txtHash>rp_lostmc_tat_007</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_FEMALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.770000" y="0.350000" />
+			<scale x="-0.120000" y="0.120000" />
+			<rotation value="20.000000" />
+			<nameHash>rp_lostmc_tat_008_m</nameHash>
+			<txdHash>rp_lostmc_tat_008</txdHash>
+			<txtHash>rp_lostmc_tat_008</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_MALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.770000" y="0.350000" />
+			<scale x="-0.120000" y="0.120000" />
+			<rotation value="20.000000" />
+			<nameHash>rp_lostmc_tat_008_f</nameHash>
+			<txdHash>rp_lostmc_tat_008</txdHash>
+			<txtHash>rp_lostmc_tat_008</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_FEMALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.430000" y="0.260000" />
+			<scale x="0.050000" y="0.050000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_009_m</nameHash>
+			<txdHash>rp_lostmc_tat_009</txdHash>
+			<txtHash>rp_lostmc_tat_009</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_MALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.400000" y="0.220000" />
+			<scale x="0.050000" y="0.050000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_009_f</nameHash>
+			<txdHash>rp_lostmc_tat_009</txdHash>
+			<txtHash>rp_lostmc_tat_009</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_FEMALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="-0.120000" y="0.350000" />
+			<scale x="0.080000" y="0.050000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_010_f</nameHash>
+			<txdHash>rp_lostmc_tat_010</txdHash>
+			<txtHash>rp_lostmc_tat_010</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_FEMALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="-0.110000" y="0.240000" />
+			<scale x="0.080000" y="0.080000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_010_m</nameHash>
+			<txdHash>rp_lostmc_tat_010</txdHash>
+			<txtHash>rp_lostmc_tat_010</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_MALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="-0.270000" y="0.350000" />
+			<scale x="0.080000" y="0.050000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_011_f</nameHash>
+			<txdHash>rp_lostmc_tat_011</txdHash>
+			<txtHash>rp_lostmc_tat_011</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_FEMALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="-0.27000" y="0.240000" />
+			<scale x="0.080000" y="0.080000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_011_m</nameHash>
+			<txdHash>rp_lostmc_tat_011</txdHash>
+			<txtHash>rp_lostmc_tat_011</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_MALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="-0.400000" y="0.350000" />
+			<scale x="0.080000" y="0.050000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_012_f</nameHash>
+			<txdHash>rp_lostmc_tat_012</txdHash>
+			<txtHash>rp_lostmc_tat_012</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_FEMALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="-0.400000" y="0.240000" />
+			<scale x="0.080000" y="0.080000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_012_m</nameHash>
+			<txdHash>rp_lostmc_tat_012</txdHash>
+			<txtHash>rp_lostmc_tat_012</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_MALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.350000" y="0.26000" />
+			<scale x="0.1000" y="0.10000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_013_m</nameHash>
+			<txdHash>rp_lostmc_tat_013</txdHash>
+			<txtHash>rp_lostmc_tat_013</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_MALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+		<Item>
+			<uvPos x="0.350000" y="0.4000" />
+			<scale x="0.1000" y="0.10000" />
+			<rotation value="0.000000" />
+			<nameHash>rp_lostmc_tat_013_f</nameHash>
+			<txdHash>rp_lostmc_tat_013</txdHash>
+			<txtHash>rp_lostmc_tat_013</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>All</garment>
+			<gender>GENDER_FEMALE</gender>
+			<award />
+			<awardLevel />
+		</Item>
+	</presets>
+	<nameHash>rpLost_overlays</nameHash>
+	<medalLocations content="vector2_array">
+    0.140000	0.070000
+    0.370000	0.070000
+    0.600000	0.070000
+    0.835000	0.070000
+    0.140000	0.150000
+    0.370000	0.150000
+    0.600000	0.150000
+    0.835000	0.150000
+    0.140000	0.230000
+    0.370000	0.230000
+    0.600000	0.230000
+    0.835000	0.230000
+    0.100000	0.700000
+    0.300000	0.700000
+    0.500000	0.700000
+    0.700000	0.700000
+</medalLocations>
+	<medalScale x="0.240000" y="0.100000" />
+</PedDecorationCollection>

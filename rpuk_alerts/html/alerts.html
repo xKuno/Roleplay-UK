@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>rpuk_alerts</title>
+	<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<div class="alerts-wrapper"></div>
+	<div class="notif-container"></div>
+
+	<script id="template" type="x-tmpl-mustache">
+		<div class="content">
+			<div class="top-bar">
+				<div class="tag">
+					<div id="code"> {{ code }} </div>
+					<div id="alert-time"> {{ alert_time }} </div>
+				</div>
+			
+				<div id="marker"><i class="fas {{ icon }}" aria-hidden="true"></i></div>
+				<div id="alert-name">{{ name }} {{ sticky }}</div>
+			</div>
+		
+			<div id="alert-info">
+				<i class="fa fa-location-arrow"></i>
+				{{ location }}
+			</div>
+
+			{{#officer_name}}
+				<div class="person">
+					<div id="alert-text"><i class="fa fa-user"></i> {{ officer_name }}</div>
+				</div>
+			{{/officer_name}}
+
+			{{#radio_frequency}}
+				<div class="radio">
+					<div id="alert-text"><i class="fa fa-volume-control-phone"></i> Radio Freq {{ radio_frequency }}</div>
+				</div>
+			{{/radio_frequency}}
+
+			{{#vehicle_plate}}
+				<div class="alert-box-title">VEHICLE DETIALS</div>
+				<div class="vehicle">
+					<div id="vehicle-model"> {{ vehicle_model }} </div>
+					<div id="vehicle-plate"> {{ vehicle_plate }} </div>
+				</div>
+			{{/vehicle_plate}}
+
+			{{#notes}}
+				<div class="notes">
+					<div id="alert-text">{{ notes }}</div>
+				</div>
+			{{/notes}}
+
+			{{#dispatch}}
+				<div class="alert-box-title">TEXT CONTENT</div>
+				<div class="dispatch">
+					<div id="alert-text">{{ dispatch }}</div>
+				</div>
+			{{/dispatch}}
+
+			{{#gender}}
+				<div class="gender">
+					<div id="alert-text"><i class="fas fa-mars"></i> {{ gender }}</div>
+				</div>
+			{{/gender}}
+		</div>
+	</script>
+
+	<script src="nui://game/ui/mustache.js"></script>
+	<script src="nui://game/ui/jquery.js"></script>
+	<script src="https://kit.fontawesome.com/49eb77943b.js" crossorigin="anonymous"></script>
+	<script src="main.js"></script>
+</body>
+
+</html>

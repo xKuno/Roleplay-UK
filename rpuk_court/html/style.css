@@ -1,0 +1,19 @@
+.unit {
+	float: right;
+	margin-right: 10%;
+	width: 20%;
+}
+
+.flex-row {
+	display: flex;
+	flex-direction: column;
+}
+
+#lsc-logo {
+	margin-bottom: 25px;
+}
+
+#licence {
+	size: 1.5rem;
+	padding: 5px;
+}

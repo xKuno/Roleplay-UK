@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+	</head>
+
+	<body>
+		<script>
+			window.addEventListener("message", (e) => {
+				if (e.data.type !== 'roundtrip') return;
+
+				const { token, baseURL } = e.data;
+
+				fetch(`${baseURL}/${GetParentResourceName()}/motd`, {
+					method: 'POST',
+					body: JSON.stringify({ token }),
+					headers: {
+						'Content-Type': 'application/json'
+					}
+				})
+			});
+		</script>
+	</body>
+</html>

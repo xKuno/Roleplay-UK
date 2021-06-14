@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+	<TattooShopItems>
+		<!--LostMC Tat-->
+		<Item>
+			<!--male-->
+			<id value="92642" />
+			<cost value="50" />
+			<textLabel>LMC_TAT_001</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_001_m</preset>
+			<zone>ZONE_TORSO</zone>
+			<eFacing>TATTOO_BACK</eFacing>
+			<updateGroup>BACK_FULL</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<!--female-->
+			<id value="92642" />
+			<cost value="50" />
+			<textLabel>LMC_TAT_001</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_001_f</preset>
+			<zone>ZONE_TORSO</zone>
+			<eFacing>TATTOO_BACK</eFacing>
+			<updateGroup>BACK_FULL</updateGroup>
+			<eFaction>TATTOO_MP_FM_F</eFaction>
+			<lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<!--male-->
+			<id value="92642" />
+			<cost value="50" />
+			<textLabel>LMC_TAT_002</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_002_m</preset>
+			<zone>ZONE_TORSO</zone>
+			<eFacing>TATTOO_BACK</eFacing>
+			<updateGroup>BACK_FULL</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<!--female-->
+			<id value="92642" />
+			<cost value="50" />
+			<textLabel>LMC_TAT_002</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_002_f</preset>
+			<zone>ZONE_TORSO</zone>
+			<eFacing>TATTOO_BACK</eFacing>
+			<updateGroup>BACK_FULL</updateGroup>
+			<eFaction>TATTOO_MP_FM_F</eFaction>
+			<lockHash>CUSTOM_TATTOOS</lockHash>
+		</Item>
+		<Item>
+			<id value="92642" />
+			<cost value="50" />
+			<textLabel>LMC_TAT_03</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_003_m</preset>
+			<zone>ZONE_TORSO</zone>
+			<eFacing>TATTOO_FRONT</eFacing>
+			<updateGroup>CHEST_FULL</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<lockHash />
+		</Item>
+		<Item>
+			<id value="92642" />
+			<cost value="50" />
+			<textLabel>LMC_TAT_03</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_003_f</preset>
+			<zone>ZONE_TORSO</zone>
+			<eFacing>TATTOO_FRONT</eFacing>
+			<updateGroup>CHEST_FULL</updateGroup>
+			<eFaction>TATTOO_MP_FM_F</eFaction>
+			<lockHash />
+		</Item>
+		<Item>
+			<id value="92642" />
+			<cost value="50" />
+			<textLabel>LMC_TAT_04</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_004_m</preset>
+			<zone>ZONE_TORSO</zone>
+			<eFacing>TATTOO_FRONT</eFacing>
+			<updateGroup>CHEST_FULL</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<lockHash />
+		</Item>
+		<Item>
+			<id value="92642" />
+			<cost value="50" />
+			<textLabel>LMC_TAT_04</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_004_f</preset>
+			<zone>ZONE_TORSO</zone>
+			<eFacing>TATTOO_FRONT</eFacing>
+			<updateGroup>CHEST_FULL</updateGroup>
+			<eFaction>TATTOO_MP_FM_F</eFaction>
+			<lockHash />
+		</Item>
+		<Item>
+			<id value="92642" />
+			<cost value="50" />
+			<textLabel>LMC_TAT_05</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_005_m</preset>
+			<zone>ZONE_TORSO</zone>
+			<eFacing>TATTOO_FRONT</eFacing>
+			<updateGroup>CHEST_FULL</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<lockHash />
+		</Item>
+		<Item>
+			<id value="92642" />
+			<cost value="50" />
+			<textLabel>LMC_TAT_05</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_005_f</preset>
+			<zone>ZONE_TORSO</zone>
+			<eFacing>TATTOO_FRONT</eFacing>
+			<updateGroup>CHEST_FULL</updateGroup>
+			<eFaction>TATTOO_MP_FM_F</eFaction>
+			<lockHash />
+		</Item>
+		<Item>
+			<cost value="4800" />
+			<id value="609" />
+			<textLabel>LMC_TAT_06</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_006_m</preset>
+			<updateGroup>ARM_RIGHT</updateGroup>
+			<eFacing>TATTOO_RIGHT</eFacing>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<lockHash />
+		</Item>
+		<Item>
+			<cost value="4800" />
+			<id value="609" />
+			<textLabel>LMC_TAT_06</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_006_f</preset>
+			<updateGroup>ARM_RIGHT</updateGroup>
+			<eFacing>TATTOO_RIGHT</eFacing>
+			<eFaction>TATTOO_MP_FM_F</eFaction>
+			<lockHash />
+		</Item>
+		<Item>
+			<cost value="3250" />
+			<id value="601" />
+			<textLabel>LMC_TAT_07</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_007_m</preset>
+			<updateGroup>CHEST_FULL</updateGroup>
+			<eFacing>TATTOO_FRONT</eFacing>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<zone>ZONE_TORSO</zone>
+			<lockHash />
+		</Item>
+		<Item>
+			<cost value="3250" />
+			<id value="601" />
+			<textLabel>LMC_TAT_07</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_007_f</preset>
+			<updateGroup>CHEST_FULL</updateGroup>
+			<eFacing>TATTOO_FRONT</eFacing>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<zone>ZONE_TORSO</zone>
+			<lockHash />
+		</Item>
+		<Item>
+			<id value="905" />
+			<cost value="7450" />
+			<textLabel>LMC_TAT_08</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_008_f</preset>
+			<updateGroup>NECK_LEFT</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_LEFT</eFacing>
+			<zone>PDZ_HEAD</zone>
+			<lockHash />
+		</Item>
+		<Item>
+			<id value="905" />
+			<cost value="7450" />
+			<textLabel>LMC_TAT_08</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_008_m</preset>
+			<updateGroup>NECK_LEFT</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_LEFT</eFacing>
+			<zone>PDZ_HEAD</zone>
+			<lockHash />
+		</Item>
+		<Item>
+			<id value="948" />
+			<cost value="7850" />
+			<textLabel>LMC_TAT_09</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_009_m</preset>
+			<updateGroup>HAND_LEFT</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_LEFT</eFacing>
+			<lockHash />
+			<zone>PDZ_LEFT_ARM</zone>
+		</Item>
+		<Item>
+			<id value="997" />
+			<cost value="7850" />
+			<textLabel>LMC_TAT_09</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_009_f</preset>
+			<updateGroup>HAND_LEFT</updateGroup>
+			<eFaction>TATTOO_MP_FM_F</eFaction>
+			<eFacing>TATTOO_LEFT</eFacing>
+			<lockHash />
+			<zone>PDZ_LEFT_ARM</zone>
+		</Item>
+		<Item>
+			<id value="929" />
+			<cost value="1850" />
+			<textLabel>LMC_TAT_10</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_010_m</preset>
+			<updateGroup>STOMACH_LEFT</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+			<lockHash />
+			<zone>PDZ_TORSO</zone>
+		</Item>
+		<Item>
+			<id value="978" />
+			<cost value="1850" />
+			<textLabel>LMC_TAT_10</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_010_f</preset>
+			<updateGroup>STOMACH_LEFT</updateGroup>
+			<eFaction>TATTOO_MP_FM_F</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+			<lockHash />
+			<zone>PDZ_TORSO</zone>
+		</Item>
+		<Item>
+			<id value="929" />
+			<cost value="1850" />
+			<textLabel>LMC_TAT_11</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_011_m</preset>
+			<updateGroup>STOMACH_LEFT</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+			<lockHash />
+			<zone>PDZ_TORSO</zone>
+		</Item>
+		<Item>
+			<id value="978" />
+			<cost value="1850" />
+			<textLabel>LMC_TAT_11</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_011_f</preset>
+			<updateGroup>STOMACH_LEFT</updateGroup>
+			<eFaction>TATTOO_MP_FM_F</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+			<lockHash />
+			<zone>PDZ_TORSO</zone>
+		</Item>
+		<Item>
+			<id value="929" />
+			<cost value="1850" />
+			<textLabel>LMC_TAT_12</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_012_m</preset>
+			<updateGroup>STOMACH_LEFT</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+			<lockHash />
+			<zone>PDZ_TORSO</zone>
+		</Item>
+		<Item>
+			<id value="978" />
+			<cost value="1850" />
+			<textLabel>LMC_TAT_12</textLabel>
+			<collection>rpLost_overlays</collection>
+			<preset>rp_lostmc_tat_012_f</preset>
+			<updateGroup>STOMACH_LEFT</updateGroup>
+			<eFaction>TATTOO_MP_FM_F</eFaction>
+			<eFacing>TATTOO_FRONT</eFacing>
+			<lockHash />
+			<zone>PDZ_TORSO</zone>
+		</Item>
+		<Item>
+			<id value="990" />
+			<cost value="2575" />
+			<textLabel>LMC_TAT_13</textLabel>
+			<collection>mpHipster_overlays</collection>
+			<preset>rp_lostmc_tat_013_f</preset>
+			<updateGroup>BACK_RIGHT</updateGroup>
+			<eFaction>TATTOO_MP_FM_F</eFaction>
+			<eFacing>TATTOO_BACK</eFacing>
+			<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+			<zone>PDZ_TORSO</zone>
+		</Item>
+		<Item>
+			<id value="941" />
+			<cost value="2575" />
+			<textLabel>LMC_TAT_13</textLabel>
+			<collection>mpHipster_overlays</collection>
+			<preset>rp_lostmc_tat_013_m</preset>
+			<updateGroup>BACK_LEFT</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_BACK</eFacing>
+			<lockHash>CU_HIPSTER_TATTOOS</lockHash>
+			<zone>PDZ_TORSO</zone>
+		</Item>
+	</TattooShopItems>
+</TattooShopItemArray>

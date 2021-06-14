@@ -1,0 +1,119 @@
+[
+  {
+    "Name": "LMC_TAT_001",
+    "LocalizedName": "Lost Logo B/W",
+    "HashNameMale": "rp_lostmc_tat_001_m",
+    "HashNameFemale": "rp_lostmc_tat_001_f",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 64350
+  },
+  {
+    "Name": "LMC_TAT_002",
+    "LocalizedName": "Lost Logo Colour",
+    "HashNameMale": "rp_lostmc_tat_002_m",
+    "HashNameFemale": "rp_lostmc_tat_002_f",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 64350
+  },
+  {
+    "Name": "LMC_TAT_003",
+    "LocalizedName": "Chest Eagle",
+    "HashNameMale": "rp_lostmc_tat_003_m",
+    "HashNameFemale": "rp_lostmc_tat_003_f",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 46770
+  },
+  {
+    "Name": "LMC_TAT_004",
+    "LocalizedName": "Chest Eagle - Colour",
+    "HashNameMale": "rp_lostmc_tat_004_m",
+    "HashNameFemale": "rp_lostmc_tat_004_f",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 46770
+  },
+  {
+    "Name": "LMC_TAT_005",
+    "LocalizedName": "Lost MC",
+    "HashNameMale": "rp_lostmc_tat_005_m",
+    "HashNameFemale": "rp_lostmc_tat_005_f",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 46770
+  },
+  {
+    "Name": "LMC_TAT_006",
+    "LocalizedName": "Hand tat",
+    "HashNameMale": "rp_lostmc_tat_006_m",
+    "HashNameFemale": "rp_lostmc_tat_006_f",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 4800
+  },
+  {
+    "Name": "LMC_TAT_007",
+    "LocalizedName": "Kick Start my Heart LMC",
+    "HashNameMale": "rp_lostmc_tat_007_m",
+    "HashNameFemale": "rp_lostmc_tat_007_f",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 46770
+  },
+  {
+    "Name": "LMC_TAT_008",
+    "LocalizedName": "Bike Neck tat",
+    "HashNameMale": "rp_lostmc_tat_008_m",
+    "HashNameFemale": "rp_lostmc_tat_008_f",
+    "Zone": "ZONE_HEAD",
+    "ZoneID": 1,
+    "Price": 3250
+  },
+  {
+    "Name": "LMC_TAT_009",
+    "LocalizedName": "Bike Chain Link",
+    "HashNameMale": "rp_lostmc_tat_009_m",
+    "HashNameFemale": "rp_lostmc_tat_009_f",
+    "Zone": "ZONE_LEFT_ARM",
+    "ZoneID": 2,
+    "Price": 7850
+  },
+  {
+    "Name": "LMC_TAT_010",
+    "LocalizedName": "Bird Biker",
+    "HashNameMale": "rp_lostmc_tat_010_m",
+    "HashNameFemale": "rp_lostmc_tat_010_f",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 1850
+  },
+  {
+    "Name": "LMC_TAT_011",
+    "LocalizedName": "Skull Biker",
+    "HashNameMale": "rp_lostmc_tat_011_m",
+    "HashNameFemale": "rp_lostmc_tat_011_f",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 1850
+  },
+  {
+    "Name": "LMC_TAT_012",
+    "LocalizedName": "Skull mask",
+    "HashNameMale": "rp_lostmc_tat_012_m",
+    "HashNameFemale": "rp_lostmc_tat_012_f",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 1850
+  },
+  {
+    "Name": "LMC_TAT_013",
+    "LocalizedName": "LMC Bike",
+    "HashNameMale": "rp_lostmc_tat_013_m",
+    "HashNameFemale": "rp_lostmc_tat_013_f",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 2575
+  }
+]
